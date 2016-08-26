@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Vendor" max_length="40" name="x_tarr2_vendor_man_vendor" type="collection"/>
+</database>
